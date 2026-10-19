@@ -1,0 +1,8 @@
+[submodule "voice-audio-services-section"]
+	path = services/voice-audio-services-section
+	url = https://github.com/red-cup-engineering/voice-audio-services-section.git
+	branch = main
+[submodule "music-engineering-services-section"]
+	path = services/music-engineering-services-section
+	url = https://github.com/red-cup-engineering/music-engineering-services-section.git
+	branch = main
